@@ -6,7 +6,8 @@ I'm Leo, a front-end developer and designer. I build web stuff and like to learn
 ## How to reach me 📫
 
 <!-- FEED-START -->
-- [Bluesky](https://bsky.app/profile/espresso.cat)
 - [Mastodon](https://mastodon.online/@EspressoCat)
+- [Bluesky](https://bsky.app/profile/espresso.cat)
+- [Website](https://espresso.cat)
 <!-- FEED-END -->
 
