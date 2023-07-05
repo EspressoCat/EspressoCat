@@ -3,7 +3,7 @@
 I'm Leo, a front-end developer and designer. I build web stuff and like to learn new things about it. Also a keen coffee drinker. 
 
 
-## How to reach me 📫
+## How to reach me :envelope:
 
 <!-- FEED-START -->
 - [Mastodon](https://mastodon.online/@EspressoCat)
