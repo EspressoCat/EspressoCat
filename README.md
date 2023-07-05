@@ -9,6 +9,5 @@ I'm Leo, a front-end developer and designer. I build web stuff and like to learn
 - [Mastodon](https://mastodon.online/@EspressoCat)
 - [Bluesky](https://bsky.app/profile/espresso.cat)
 - [Website](https://espresso.cat)
-- [Codepen](https://codepen.io/EspressoCat)
 <!-- FEED-END -->
 
