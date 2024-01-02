@@ -1,6 +1,6 @@
 # Hi y'all &nbsp; :wave:
 
-I'm Leo, a front-end developer and designer. I build web stuff and like to learn new things about it. Also a keen coffee drinker.
+I'm Leo, a front-end developer and designer. I build web stuff and like to learn new things about it. I also enjoy a good cup of coffee.
 
 ## Get in touch &nbsp; :incoming_envelope:
 
